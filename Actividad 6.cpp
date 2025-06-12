@@ -29,5 +29,5 @@ int main() //inicio de la funcion primaria
 	}
 	cout<<endl;
 	cout<<"La sumatoria de todos los numeros pares da: "<<sumatoria; //mensaje indicando el resultado de la sumatoria de todos los numeros pares
-	
+return 0; //fin del programa	
 }
