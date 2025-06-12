@@ -38,5 +38,7 @@ int main() //inicio de la funcion primaria
 	cout<<"Numeros pares: "<<par; //mensajes mostrando cuantos numeros pares e impares hay.
 	cout<<endl;
 	cout<<"Numeros impares: "<<impar;
+
+	return 0;
 }
 
